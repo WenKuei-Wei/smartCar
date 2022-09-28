@@ -33,6 +33,6 @@ driver’svision field is increased. Upper and lower portions represent the driv
 before and after using the application.
 
 
-![image](https://github.com/smartCarLab/smartCar/blob/master/image/image7.png?raw=true)
+![image](https://github.com/smartCarLab/smartCar/blob/master/image/image77.png?raw=true)
 
-Figure 7. This is my friend Leo Lee.
+Figure 77. This is my friend Leo Lee.
